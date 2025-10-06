@@ -1,15 +1,15 @@
-## Hi there! 👋
+## Hi there! 👋 🇻🇳
 
-_I am a web front-end engineer who focuses on frontend architecture and loves open source._
+_I am a web front-end engineer who focuses on web architecture and loves open source._
 
-Now, I am learning AI technology and building web products.
+Now, I am learning AI technology and building web application products.
 
 <p align="center">
   <!-- Dark theme SVG -->
   <img src="images/breakout-dark.svg#gh-dark-mode-only" alt="GitHub Breakout" />
 </p>
 
-### ☕ Spending of Spare Time
+### 🧑🏻‍💻 Spending of Spare Time
 
 Some interesting things I created:
 
@@ -18,7 +18,7 @@ Some interesting things I created:
 - [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
 - [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
 
-### 🍺 My GitHub Statistics
+### 🪄 My GitHub Statistics
 
 <p>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=khanhnm222&show_icons=true" />
