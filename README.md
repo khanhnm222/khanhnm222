@@ -1,4 +1,4 @@
-## Hi there! 👋 🇻🇳
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🇻🇳
 
 _I am a web front-end engineer who focuses on web architecture and loves open source._
 
@@ -19,6 +19,9 @@ Some interesting things I created:
 - [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
 
 ### 🪄 My GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=khanhnm222&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khanhnm222&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnm222&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=khanhnm222&show_icons=true" />
