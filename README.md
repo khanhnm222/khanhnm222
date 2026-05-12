@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <img src="https://flagcdn.com/w40/vn.png" width="25"/>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Waving hand"> <img src="https://flagcdn.com/w40/vn.png" width="25" alt="Vietnam flag"/>
 
 _I am a web front-end engineer who focuses on web architecture and loves open source._
 
@@ -18,7 +18,7 @@ Now, I am learning AI technology and building web application products.
 <span>![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)</span>
 <span>![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)</span>
 <span>![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)</span>
-<span>![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)</span>
+<span>![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=%2300DC82)</span>
 <span>![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</span>
 <span>![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)</span>
 <span>![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)</span>
@@ -47,7 +47,7 @@ Now, I am learning AI technology and building web application products.
 <span>![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)</span>
 <span>![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)</span>
 <span>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)</span>
-<span>![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+<span>![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)</span>
 <span>![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)</span>
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
