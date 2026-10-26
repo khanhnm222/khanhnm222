@@ -8,6 +8,7 @@ Now, I am learning AI technology and building web application products.
   <!-- Dark theme SVG -->
   <img src="images/breakout-dark.svg#gh-dark-mode-only" alt="GitHub Breakout" />
 </p>
+
 ---
 
 ## 🛠 Technologies and Tools
@@ -51,6 +52,7 @@ Now, I am learning AI technology and building web application products.
 <span>![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)</span>
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
+
 ---
 
 ### 🧑🏻‍💻 Spending of Spare Time
@@ -64,17 +66,33 @@ Some interesting things I created:
 
 ---
 
-### 🪄 My GitHub Statistics
+## 🚀 My Products
 
-![](https://github-readme-stats.vercel.app/api?username=khanhnm222&theme=light&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=khanhnm222&theme=light&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnm222&theme=light&hide_border=false&layout=compact)
-
-<p>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=khanhnm222&show_icons=true" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=khanhnm222&exclude_repo=khanhnm222.github.io&langs_count=10&hide=html,ejs" />
-</p>
+<table>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://readout.app.khanhnm.dev">
+        <img src="images/readout-icon.png" width="64" alt="Readout app icon" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://readout.app.khanhnm.dev">Readout</a></h3>
+      <p>Upload a PDF, Word, EPUB or text document and have it read aloud in the browser — the preview highlights each sentence and word as it is spoken. 300+ neural voices across 70+ languages (including Vietnamese), adjustable speed, document outline navigation, and a scan &amp; read mode for photos of pages, menus and signs. Installable as a PWA that keeps working fully offline.</p>
+      <p>🔗 <a href="https://readout.app.khanhnm.dev">readout.app.khanhnm.dev</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://co-tuong.app.khanhnm.dev">
+        <img src="images/co-tuong-icon.png" width="64" alt="Cờ Tướng Vui app icon" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://co-tuong.app.khanhnm.dev">Cờ Tướng Vui</a></h3>
+      <p>Play Cờ Tướng (Chinese chess) against the computer, with a friend on one device, or online — and sharpen your attack with checkmate puzzles.</p>
+      <p>🔗 <a href="https://co-tuong.app.khanhnm.dev">co-tuong.app.khanhnm.dev</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
