@@ -55,22 +55,23 @@ Now, I am learning AI technology and building web application products.
 
 ---
 
-### 🧑🏻‍💻 Spending of Spare Time
-
-Some interesting things I created:
-
-- [React Mapbox with RsBuild](https://github.com/khanhnm222/rsbuild-maps-app)
-- [Micro Frontend Template](https://github.com/khanhnm222/microfrontends-monorepo)
-- [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
-- [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
-
----
-
 ## 🚀 My Products
 
 <table>
   <tr>
-    <td width="80" align="center">
+    <td width="80" align="center" valign="middle">
+      <a href="https://son.app.khanhnm.dev">
+        <img src="images/son-icon.png" width="64" alt="Sơn app icon" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://son.app.khanhnm.dev">Sơn - Photo editor</a></h3>
+      <p>A full image editor that runs in your browser — layers, masks, selections, adjustments and PSD import, in the spirit of Photoshop / Photopea. Local-first: files never leave the browser, projects autosave on the device, with optional cloud sync and share links. Named after <em>sơn mài</em>, Vietnamese lacquer painting built one layer at a time.</p>
+      <p>🔗 <a href="https://son.app.khanhnm.dev">son.app.khanhnm.dev</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center" valign="middle">
       <a href="https://readout.app.khanhnm.dev">
         <img src="images/readout-icon.png" width="64" alt="Readout app icon" />
       </a>
@@ -82,7 +83,7 @@ Some interesting things I created:
     </td>
   </tr>
   <tr>
-    <td width="80" align="center">
+    <td width="80" align="center" valign="middle">
       <a href="https://co-tuong.app.khanhnm.dev">
         <img src="images/co-tuong-icon.png" width="64" alt="Cờ Tướng Vui app icon" />
       </a>
@@ -94,5 +95,16 @@ Some interesting things I created:
     </td>
   </tr>
 </table>
+
+---
+
+### 🧑🏻‍💻 Spending of Spare Time
+
+Some interesting things I created:
+
+- [React Mapbox with RsBuild](https://github.com/khanhnm222/rsbuild-maps-app)
+- [Micro Frontend Template](https://github.com/khanhnm222/microfrontends-monorepo)
+- [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
+- [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
 
 ---
