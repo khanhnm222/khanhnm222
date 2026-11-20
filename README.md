@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Waving hand"> <img src="https://flagcdn.com/w40/vn.png" width="25" alt="Vietnam flag"/>
 
-_I am a web front-end engineer who focuses on web architecture and loves open source._
+_I am a web engineer focused on web architecture and I love open source._
 
 Now, I am learning AI technology and building web application products.
 
@@ -55,17 +55,6 @@ Now, I am learning AI technology and building web application products.
 
 ---
 
-### 🧑🏻‍💻 Spending of Spare Time
-
-Some interesting things I created:
-
-- [React Mapbox with RsBuild](https://github.com/khanhnm222/rsbuild-maps-app)
-- [Micro Frontend Template](https://github.com/khanhnm222/microfrontends-monorepo)
-- [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
-- [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
-
----
-
 ## 🚀 My Products
 
 _Small, focused tools that run right in the browser — each with its own identity._
@@ -81,3 +70,12 @@ _Small, focused tools that run right in the browser — each with its own identi
 </p>
 
 ---
+
+### 🧑🏻‍💻 Spending Spare Time
+
+Some interesting things I created:
+
+- [React Mapbox with RsBuild](https://github.com/khanhnm222/rsbuild-maps-app)
+- [Micro Frontend Template](https://github.com/khanhnm222/microfrontends-monorepo)
+- [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
+- [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
