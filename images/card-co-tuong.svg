@@ -1,0 +1,92 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="244" viewBox="0 0 1080 244" role="img" aria-label="Cờ Tướng Vui — play Chinese chess against the computer, a friend, or online, plus checkmate puzzles.">
+  <style>
+    .card { fill: #ffffff; stroke: #e4e3de; }
+    .cover { fill: #fbefe2; }
+    .linef { fill: #e4e3de; }
+    .dgrid { stroke: #e3c9a6; }
+    .t1 { fill: #16161a; }
+    .t2 { fill: #4a4b53; }
+    .chip { fill: #f3f2ee; stroke: #e4e3de; }
+    .chipt { fill: #4a4b53; }
+    .acc { fill: #b42318; }
+    .accs { stroke: #b42318; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #16161c; stroke: #26262f; }
+      .cover { fill: #21140f; }
+      .linef { fill: #26262f; }
+      .dgrid { stroke: #4d3222; }
+      .t1 { fill: #f2f2f4; }
+      .t2 { fill: #a3a3b0; }
+      .chip { fill: #1d1d25; stroke: #26262f; }
+      .chipt { fill: #a3a3b0; }
+      .acc { fill: #ff8a7a; }
+      .accs { stroke: #ff8a7a; }
+    }
+    .body { font-family: 'Be Vietnam Pro', 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    .code { font-family: 'JetBrains Mono', Consolas, monospace; }
+    .cjk { font-family: 'Noto Serif TC', 'Songti SC', 'PMingLiU', 'SimSun', serif; }
+  </style>
+  <defs>
+    <clipPath id="cc">
+      <rect x="0.75" y="0.75" width="1078.5" height="242.5" rx="19.5"/>
+    </clipPath>
+  </defs>
+  <rect class="card" x="0.75" y="0.75" width="1078.5" height="242.5" rx="19.5" stroke-width="1.5"/>
+  <g clip-path="url(#cc)" aria-hidden="true">
+    <rect class="cover" x="0.75" y="0.75" width="299.25" height="242.5"/>
+    <svg x="70" y="38" width="230" height="168" viewBox="0 0 230 168">
+      <g class="dgrid" fill="none" stroke-width="1.5">
+        <path d="M30 4V64M70 4V64M110 4V64M150 4V64M190 4V64"/>
+        <path d="M30 104V164M70 104V164M110 104V164M150 104V164M190 104V164"/>
+        <path d="M30 24H230M30 64H230M30 104H230M30 144H230"/>
+        <path d="M30 64V104M230 4V164"/>
+        <path d="M70 -16L150 64M150 -16L70 64"/>
+      </g>
+      <g>
+        <circle cx="150" cy="104" r="17" fill="#f6e7c8" stroke="#b8862f" stroke-width="1.5"/>
+        <circle cx="150" cy="104" r="13.5" fill="none" stroke="#c8312b" stroke-width="1.5"/>
+        <text class="cjk" x="150" y="109.5" text-anchor="middle" font-size="15" font-weight="700" fill="#c8312b">炮</text>
+      </g>
+      <g>
+        <circle cx="70" cy="24" r="17" fill="#f6e7c8" stroke="#b8862f" stroke-width="1.5"/>
+        <circle cx="70" cy="24" r="13.5" fill="none" stroke="#2a1712" stroke-width="1.5"/>
+        <text class="cjk" x="70" y="29.5" text-anchor="middle" font-size="15" font-weight="700" fill="#2a1712">馬</text>
+      </g>
+      <g>
+        <circle cx="190" cy="144" r="17" fill="#f6e7c8" stroke="#b8862f" stroke-width="1.5"/>
+        <circle cx="190" cy="144" r="13.5" fill="none" stroke="#c8312b" stroke-width="1.5"/>
+        <text class="cjk" x="190" y="149.5" text-anchor="middle" font-size="15" font-weight="700" fill="#c8312b">車</text>
+      </g>
+    </svg>
+    <rect class="linef" x="300" y="0.75" width="1.5" height="242.5"/>
+  </g>
+  <g aria-hidden="true">
+    <svg x="24" y="156" width="64" height="64" viewBox="0 0 64 64">
+      <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="15" fill="#2a1712" stroke="#b8862f" stroke-width="1.5"/>
+      <circle cx="32" cy="32" r="22" fill="#f6e7c8"/>
+      <circle cx="32" cy="32" r="18" fill="none" stroke="#c8312b" stroke-width="2"/>
+      <text class="cjk" x="32" y="39.5" text-anchor="middle" font-size="21" font-weight="700" fill="#c8312b">帥</text>
+    </svg>
+  </g>
+  <text class="t1 body" x="328" y="64" font-size="34" font-weight="800" letter-spacing="-1.2">Cờ Tướng <tspan class="acc">Vui</tspan></text>
+  <text class="t1 body" x="328" y="98" font-size="16" font-weight="600">Cờ Tướng (Chinese chess) — play against the computer, a friend, or online.</text>
+  <text class="t2 body" x="328" y="126" font-size="14">Jump into a quick game right in your browser, or train your tactics with checkmate puzzles.</text>
+  <g>
+    <rect class="chip" x="328" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="375" y="164" font-size="13" font-weight="500" text-anchor="middle">vs Computer</text>
+    <rect class="chip" x="430" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="477" y="164" font-size="13" font-weight="500" text-anchor="middle">Two players</text>
+    <rect class="chip" x="532" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="579" y="164" font-size="13" font-weight="500" text-anchor="middle">Online play</text>
+    <rect class="chip" x="634" y="146" width="133" height="27" rx="13.5"/>
+    <text class="chipt body" x="700.5" y="164" font-size="13" font-weight="500" text-anchor="middle">Checkmate puzzles</text>
+  </g>
+  <rect class="linef" x="328" y="194" width="724" height="1"/>
+  <text class="acc code" x="328" y="224" font-size="13" font-weight="500">co-tuong.app.khanhnm.dev</text>
+  <svg x="1034" y="211" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+    <g class="accs" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7 17L17 7"/>
+      <path d="M8 7h9v9"/>
+    </g>
+  </svg>
+</svg>

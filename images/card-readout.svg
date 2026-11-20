@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="244" viewBox="0 0 1080 244" role="img" aria-label="Readout — your documents, read aloud with every word highlighted. 300+ voices, 70+ languages, offline PWA, scan and read.">
+  <style>
+    .card { fill: #ffffff; stroke: #e4e3de; }
+    .cover { fill: #e8e9fe; }
+    .linef { fill: #e4e3de; }
+    .dline { fill: #c8ccfc; }
+    .t1 { fill: #16161a; }
+    .t2 { fill: #4a4b53; }
+    .chip { fill: #f3f2ee; stroke: #e4e3de; }
+    .chipt { fill: #4a4b53; }
+    .acc { fill: #2b35f5; }
+    .accs { stroke: #2b35f5; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #16161c; stroke: #26262f; }
+      .cover { fill: #121530; }
+      .linef { fill: #26262f; }
+      .dline { fill: #2b3170; }
+      .t1 { fill: #f2f2f4; }
+      .t2 { fill: #a3a3b0; }
+      .chip { fill: #1d1d25; stroke: #26262f; }
+      .chipt { fill: #a3a3b0; }
+      .acc { fill: #8f96ff; }
+      .accs { stroke: #8f96ff; }
+    }
+    .body { font-family: 'Be Vietnam Pro', 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    .code { font-family: 'JetBrains Mono', Consolas, monospace; }
+  </style>
+  <defs>
+    <clipPath id="cc">
+      <rect x="0.75" y="0.75" width="1078.5" height="242.5" rx="19.5"/>
+    </clipPath>
+  </defs>
+  <rect class="card" x="0.75" y="0.75" width="1078.5" height="242.5" rx="19.5" stroke-width="1.5"/>
+  <g clip-path="url(#cc)" aria-hidden="true">
+    <rect class="cover" x="0.75" y="0.75" width="299.25" height="242.5"/>
+    <svg x="70" y="38" width="230" height="168" viewBox="0 0 230 168">
+      <rect class="dline" x="20" y="30" width="118" height="9" rx="4.5"/>
+      <rect x="10" y="50" width="156" height="26" rx="7" fill="#d8ff2c"/>
+      <rect x="20" y="58.5" width="134" height="9" rx="4.5" fill="#16161a"/>
+      <rect class="dline" x="20" y="88" width="140" height="9" rx="4.5"/>
+      <rect class="dline" x="20" y="112" width="96" height="9" rx="4.5"/>
+      <rect class="dline" x="20" y="136" width="122" height="9" rx="4.5"/>
+      <g class="accs" fill="none" stroke-width="9" stroke-linecap="round">
+        <path d="M184 44A42 42 0 0 1 184 120"/>
+        <path d="M204 24A70 70 0 0 1 204 140" opacity="0.55"/>
+      </g>
+    </svg>
+    <rect class="linef" x="300" y="0.75" width="1.5" height="242.5"/>
+  </g>
+  <g aria-hidden="true">
+    <svg x="24" y="156" width="64" height="64" viewBox="0 0 1024 1024">
+      <rect width="1024" height="1024" rx="232" fill="#2B35F5"/>
+      <g transform="translate(-18 0)">
+        <path d="M244 212H476L596 332V764Q596 812 548 812H244Q196 812 196 764V260Q196 212 244 212Z" fill="#FFFFFF"/>
+        <path d="M476 212V292Q476 332 516 332H596Z" fill="#C8CCFC"/>
+        <rect x="260" y="404" width="220" height="28" rx="14" fill="#C8CCFC"/>
+        <rect x="236" y="474" width="320" height="88" rx="20" fill="#D8FF2C"/>
+        <rect x="260" y="504" width="272" height="28" rx="14" fill="#16161A"/>
+        <rect x="260" y="602" width="272" height="28" rx="14" fill="#C8CCFC"/>
+        <rect x="260" y="686" width="180" height="28" rx="14" fill="#C8CCFC"/>
+        <path d="M694.3 420A128 128 0 0 1 694.3 616" stroke="#FFFFFF" stroke-width="52" stroke-linecap="round" fill="none"/>
+        <path d="M758.6 343.3A228 228 0 0 1 758.6 692.7" stroke="#FFFFFF" stroke-width="52" stroke-linecap="round" fill="none"/>
+      </g>
+    </svg>
+  </g>
+  <text class="t1 body" x="328" y="64" font-size="34" font-weight="800" letter-spacing="-1.2">Readout</text>
+  <text class="t1 body" x="328" y="98" font-size="16" font-weight="600">Your documents, read aloud — every word highlighted as it speaks.</text>
+  <text class="t2 body" x="328" y="126" font-size="14">Import documents or scan pages, choose from 300+ voices in 70+ languages, and listen offline.</text>
+  <g>
+    <rect class="chip" x="328" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="375" y="164" font-size="13" font-weight="500" text-anchor="middle">300+ voices</text>
+    <rect class="chip" x="430" y="146" width="107" height="27" rx="13.5"/>
+    <text class="chipt body" x="483.5" y="164" font-size="13" font-weight="500" text-anchor="middle">70+ languages</text>
+    <rect class="chip" x="545" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="592" y="164" font-size="13" font-weight="500" text-anchor="middle">Offline PWA</text>
+    <rect class="chip" x="647" y="146" width="94" height="27" rx="13.5"/>
+    <text class="chipt body" x="694" y="164" font-size="13" font-weight="500" text-anchor="middle">Scan &amp; read</text>
+  </g>
+  <rect class="linef" x="328" y="194" width="724" height="1"/>
+  <text class="acc code" x="328" y="224" font-size="13" font-weight="500">readout.app.khanhnm.dev</text>
+  <svg x="1034" y="211" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+    <g class="accs" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7 17L17 7"/>
+      <path d="M8 7h9v9"/>
+    </g>
+  </svg>
+</svg>

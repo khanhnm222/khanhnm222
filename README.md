@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Waving hand"> <img src="https://flagcdn.com/w40/vn.png" width="25" alt="Vietnam flag"/>
 
-_I am a web engineer who focuses on web architecture and loves open source._
+_I am a web front-end engineer who focuses on web architecture and loves open source._
 
 Now, I am learning AI technology and building web application products.
 
@@ -55,49 +55,6 @@ Now, I am learning AI technology and building web application products.
 
 ---
 
-## 🚀 My Personal Products
-
-<table>
-  <tr>
-    <td width="80" align="center" valign="middle">
-      <a href="https://son.app.khanhnm.dev">
-        <img src="images/son-icon.png" width="64" alt="Sơn app icon" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://son.app.khanhnm.dev">Sơn - Photo editor</a></h3>
-      <p>A full image editor that runs in your browser — layers, masks, selections, adjustments and PSD import, in the spirit of Photoshop / Photopea. Local-first: files never leave the browser, projects autosave on the device, with optional cloud sync and share links. Named after <em>sơn mài</em>, Vietnamese lacquer painting built one layer at a time.</p>
-      <p>🔗 <a href="https://son.app.khanhnm.dev">son.app.khanhnm.dev</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center" valign="middle">
-      <a href="https://readout.app.khanhnm.dev">
-        <img src="images/readout-icon.png" width="64" alt="Readout app icon" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://readout.app.khanhnm.dev">Readout</a></h3>
-      <p>Upload a PDF, Word, EPUB or text document and have it read aloud in the browser — the preview highlights each sentence and word as it is spoken. 300+ neural voices across 70+ languages (including Vietnamese), adjustable speed, document outline navigation, and a scan &amp; read mode for photos of pages, menus and signs. Installable as a PWA that keeps working fully offline.</p>
-      <p>🔗 <a href="https://readout.app.khanhnm.dev">readout.app.khanhnm.dev</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center" valign="middle">
-      <a href="https://co-tuong.app.khanhnm.dev">
-        <img src="images/co-tuong-icon.png" width="64" alt="Cờ Tướng Vui app icon" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://co-tuong.app.khanhnm.dev">Cờ Tướng Vui</a></h3>
-      <p>Play Cờ Tướng (Chinese chess) against the computer, with a friend on one device, or online — and sharpen your attack with checkmate puzzles.</p>
-      <p>🔗 <a href="https://co-tuong.app.khanhnm.dev">co-tuong.app.khanhnm.dev</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🧑🏻‍💻 Spending of Spare Time
 
 Some interesting things I created:
@@ -106,3 +63,21 @@ Some interesting things I created:
 - [Micro Frontend Template](https://github.com/khanhnm222/microfrontends-monorepo)
 - [React Atomic Design](https://github.com/khanhnm222/react-atomic-design)
 - [React Mapbox Kit](https://github.com/khanhnm222/react-mapbox-kit)
+
+---
+
+## 🚀 My Products
+
+_Small, focused tools that run right in the browser — each with its own identity._
+
+<p>
+  <a href="https://son.app.khanhnm.dev"><img src="images/card-son.svg" alt="Sơn — a full image editor in your browser: layers, masks, selections, PSD import. Local-first." /></a>
+</p>
+<p>
+  <a href="https://readout.app.khanhnm.dev"><img src="images/card-readout.svg" alt="Readout — your documents, read aloud with every word highlighted. 300+ voices, 70+ languages, offline PWA, scan &amp; read." /></a>
+</p>
+<p>
+  <a href="https://co-tuong.app.khanhnm.dev"><img src="images/card-co-tuong.svg" alt="Cờ Tướng Vui — play Chinese chess against the computer, a friend, or online, plus checkmate puzzles." /></a>
+</p>
+
+---
