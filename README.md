@@ -55,18 +55,18 @@ Now, I am learning AI technology and building web application products.
 
 ---
 
-## 🚀 My Products
+## 🚀 My Personal Products
 
 _Small, focused tools that run right in the browser — each with its own identity._
 
 <p>
-  <a href="https://son.app.khanhnm.dev"><img src="images/card-son.svg" alt="Sơn — a full image editor in your browser: layers, masks, selections, PSD import. Local-first." /></a>
+  <a href="https://son.app.khanhnm.dev" target="_blank" rel="noopener noreferrer"><img src="images/card-son.svg" alt="Sơn - a full image editor in your browser: layers, masks, selections, PSD import. Local-first." /></a>
 </p>
 <p>
-  <a href="https://readout.app.khanhnm.dev"><img src="images/card-readout.svg" alt="Readout — your documents, read aloud with every word highlighted. 300+ voices, 70+ languages, offline PWA, scan &amp; read." /></a>
+  <a href="https://readout.app.khanhnm.dev" target="_blank" rel="noopener noreferrer"><img src="images/card-readout.svg" alt="Readout - your documents, read aloud with every word highlighted. 300+ voices, 70+ languages, offline PWA, scan &amp; read." /></a>
 </p>
 <p>
-  <a href="https://co-tuong.app.khanhnm.dev"><img src="images/card-co-tuong.svg" alt="Cờ Tướng Vui — play Chinese chess against the computer, a friend, or online, plus checkmate puzzles." /></a>
+  <a href="https://co-tuong.app.khanhnm.dev" target="_blank" rel="noopener noreferrer"><img src="images/card-co-tuong.svg" alt="Cờ Tướng Vui - play Chinese chess against the computer, a friend, or online, plus checkmate puzzles." /></a>
 </p>
 
 ---
